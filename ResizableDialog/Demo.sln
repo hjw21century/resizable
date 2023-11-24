@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo", "Demo.vcproj", "{C3534D24-7C89-4CBE-A379-00FFE905EB90}"
+	ProjectSection(ProjectDependencies) = postProject
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD} = {63ABC036-1B69-4172-BA7F-983C6165B6CD}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResizableLib", "..\ResizableLib\ResizableLib.vcproj", "{63ABC036-1B69-4172-BA7F-983C6165B6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Static Unicode|Win32 = Debug Static Unicode|Win32
+		Debug Static|Win32 = Debug Static|Win32
+		Debug Unicode|Win32 = Debug Unicode|Win32
+		Debug|Win32 = Debug|Win32
+		Release Static Unicode|Win32 = Release Static Unicode|Win32
+		Release Static|Win32 = Release Static|Win32
+		Release Unicode|Win32 = Release Unicode|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug Static Unicode|Win32.ActiveCfg = Debug Static Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug Static Unicode|Win32.Build.0 = Debug Static Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug Static|Win32.ActiveCfg = Debug Static|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug Static|Win32.Build.0 = Debug Static|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug Unicode|Win32.ActiveCfg = Debug Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug Unicode|Win32.Build.0 = Debug Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Debug|Win32.Build.0 = Debug|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release Static Unicode|Win32.ActiveCfg = Release Static Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release Static Unicode|Win32.Build.0 = Release Static Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release Static|Win32.ActiveCfg = Release Static|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release Static|Win32.Build.0 = Release Static|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release Unicode|Win32.ActiveCfg = Release Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release Unicode|Win32.Build.0 = Release Unicode|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release|Win32.ActiveCfg = Release|Win32
+		{C3534D24-7C89-4CBE-A379-00FFE905EB90}.Release|Win32.Build.0 = Release|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug Static Unicode|Win32.ActiveCfg = Debug Static Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug Static Unicode|Win32.Build.0 = Debug Static Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug Static|Win32.ActiveCfg = Debug Static|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug Static|Win32.Build.0 = Debug Static|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug Unicode|Win32.ActiveCfg = Debug Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug Unicode|Win32.Build.0 = Debug Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Debug|Win32.Build.0 = Debug|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release Static Unicode|Win32.ActiveCfg = Release Static Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release Static Unicode|Win32.Build.0 = Release Static Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release Static|Win32.ActiveCfg = Release Static|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release Static|Win32.Build.0 = Release Static|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release Unicode|Win32.ActiveCfg = Release Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release Unicode|Win32.Build.0 = Release Unicode|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release|Win32.ActiveCfg = Release|Win32
+		{63ABC036-1B69-4172-BA7F-983C6165B6CD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
